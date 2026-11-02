@@ -1,3 +1,2 @@
-streamlit>=1.32
-transformers>=4.40
-pandas>=2.0
+flask
+requests
